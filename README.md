@@ -1,4 +1,5 @@
-# Hi there, I'm [Ajoy]! 👋
+# Wishing You A Very Happy Morning 
+# My Friends, I'm Ajoy! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
